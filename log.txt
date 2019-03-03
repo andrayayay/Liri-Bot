@@ -1,0 +1,36 @@
+
+mariah carey
+
+concert-this jonas brothers
+undefined
+concert-this anderson.paak
+undefined
+npm i moment
+
+concert-this Mariah Carey
+
+
+    Venue: Ziggo Dome
+    Location: Amsterdam, MS
+    Event Date: June 13, 2019
+            
+spotify-this-song All The Small Things
+
+
+    Artist: blink-182
+    Track: All The Small Things
+    Preview: null
+    Album: Enema Of The State
+            
+movie-this Walk the Line
+
+
+    Title: Walk the Line
+    Released: 2005
+    IMDB Rating: 7.9
+    Rotten Tomatos Rating: 83%
+    Country: USA, Germany
+    Language: English, Russian
+    Plot: A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.
+    Actors: Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin, Robert Patrick
+            
