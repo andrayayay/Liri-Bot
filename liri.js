@@ -1,3 +1,4 @@
+// required 
 require("dotenv").config();
 var axios = require("axios");
 var moment = require("moment");
@@ -11,7 +12,7 @@ var spotify = new Spotify({
     secret: env.SPOTIFY_SECRET
 });
 
-//Input on CLI
+//Input on CLI (command line interface)
 var query = process.argv;
 var type = process.argv[2];
 var array = [];
@@ -27,7 +28,7 @@ array.splice(-1);
 //Search query joined together to form string for any query below
 var finalSearch = array.join(""); 
 
-//Switch statement to determine type selected. (Ex. concert-this, movie-this, etc.)
+//Switch statement to determine catergory selected. (concert-this, movie-this, spotify-this-song)
 switch (type) {
     case 'concert-this':
         concertMe()
@@ -46,8 +47,7 @@ switch (type) {
 }
 
 
-// node liri.js concert-this
-
+// concert-this
 function concertMe() {
     if (finalSearch === "") {
         console.log('\n')
@@ -147,7 +147,7 @@ function itSays() {
       });
 }
 
-//Input Logger - see log.txt
+//Input Log
 var logQuery = query.splice(0,2)
 logQuery =  "\n" + query.join(" ") + "\n"
 console.log(logQuery)
@@ -162,7 +162,7 @@ fs.appendFile("log.txt", logQuery, function(err) {
   
   });
 
-//Data Logger - see log.txt
+//Logs the data on log.txt
 function dataLog(data) {
     fs.appendFile("log.txt", data, function(err) {
 
