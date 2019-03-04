@@ -11,8 +11,8 @@ For this assignment, I created a "liri-bot' using node.js. The goal was to creat
 <strong>node ./liri.js movie-this 'insert-movie-name'</strong>
 ![movie-this](images/movie.png?raw=true)
 
-<strong>node ./liri.js doing-what-it-say</strong>
-<h5>Displays what's in the random.txt file</h5>
+<strong>node ./liri.js doing-what-it-say
+This command displays information found in the 'random.txt' file</strong>
 ![doing-what-it-says](images/dwis.png?raw=true)
 
 <strong>Logs every execution a user does on the command line in log.txt</strong>
