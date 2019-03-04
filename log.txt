@@ -25,3 +25,49 @@ movie-this Walk the Line
     Plot: A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.
     Actors: Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin, Robert Patrick
             
+concert-this anderson.paak
+undefined
+concert-this toro y moi
+
+
+    Venue: Fuji Rock Festival '19 (July 26-28)
+    Location: Niigata, FL
+    Event Date: July 26, 2019
+            
+spotify-this-song banana clip
+
+
+    Artist: Miguel
+    Track: Banana Clip
+    Preview: https://p.scdn.co/mp3-preview/e218b45d8a8ee66dcb538fbbee97f92db4547a66?cid=d75430349a404944b035b2f9e11ff7bb
+    Album: War & Leisure
+            
+movie-this infinity war
+
+
+    Title: Avengers: Infinity War
+    Released: 2018
+    IMDB Rating: 8.5
+    Rotten Tomatos Rating: 85%
+    Country: USA
+    Language: English
+    Plot: The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+    Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d75430349a404944b035b2f9e11ff7bb
+    Album: The Hits--Chapter One
+do-what-it-says
+
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d75430349a404944b035b2f9e11ff7bb
+    Album: The Hits--Chapter One
+            

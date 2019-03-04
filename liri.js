@@ -5,7 +5,7 @@ var moment = require("moment");
 var fs = require("fs");
 
 //Spotify keys
-const env = process.env;
+var env = process.env;
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify({
     id: env.SPOTIFY_ID,
@@ -28,7 +28,7 @@ array.splice(-1);
 //Search query joined together to form string for any query below
 var finalSearch = array.join(""); 
 
-//Switch statement to determine catergory selected. (concert-this, movie-this, spotify-this-song)
+//Switch statement to determine catergory (concert-this, movie-this, spotify-this-song)
 switch (type) {
     case 'concert-this':
         concertMe()
